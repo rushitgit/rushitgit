@@ -2,7 +2,7 @@
 
 I'm Rushit, and I'm a passionate coder who loves to explore the world of software development.
 
-🔭 I’m currently working on Data Pipelining Application and a Quizzing Application.
+🔭 I’m currently working on a Data Pipelining Application, Quizzing Application (College internship), NASA Space Apps Global Round (Qualified regionals) and more...
 
 🌱 I’m always learning, with a particular focus on the evolving Spring Ecosystem and Machine Learning.
 
