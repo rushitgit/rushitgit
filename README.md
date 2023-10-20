@@ -4,7 +4,7 @@ I'm Rushit, and I'm a passionate coder who loves to explore the world of softwar
 
 🔭 I’m currently working on Data Pipelining Application and a Quizzing Application.
 
-🌱 I’m always learning, with a particular focus on Spring and Machine Learning.
+🌱 I’m always learning, with a particular focus on the evolving Spring Ecosystem and Machine Learning.
 
 💬 Ask me about anything related to coding, tech, or software development. I'm always eager to chat!
 
