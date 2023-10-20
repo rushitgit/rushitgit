@@ -8,7 +8,7 @@ I'm Rushit, and I'm a passionate coder who loves to explore the world of softwar
 
 💬 Ask me about anything related to coding, tech, or software development. I'm always eager to chat!
 
-📫 You can reach me at: f20210010@dubai.bits-pilani.ac.in
+📫 You can reach me at: f20210010@dubai.bits-pilani.ac.in or palesharushit@gmail.com
 
 ### Skills and Technologies
 
