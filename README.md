@@ -47,8 +47,5 @@ I'm [Rushit Palesha](https://www.linkedin.com/in/rushit-palesha/) , and I'm a pa
 
 
 
-### GitHub Stats
-
-![Rushit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushitgit&count_private=true&theme=radical)
 
 
