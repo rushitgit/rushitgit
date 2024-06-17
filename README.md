@@ -45,8 +45,7 @@ I'm [Rushit Palesha](https://www.linkedin.com/in/rushit-palesha/) , and I'm a pa
 [![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 
 
-Profile views:
-![Profile Views](https://komarev.com/ghpvc/?username=rushitgit&color=blue)
+
 
 
 
