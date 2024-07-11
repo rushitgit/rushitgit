@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-I'm [Rushit Palesha](https://www.linkedin.com/in/rushit-palesha/) , and I'm a passionate backend developer, intrigued by databases and aspire to create for the better!
-
-🔭 I’m currently working on a Data Pipelining Application, Quizzing Application (College internship), NASA Space Apps Global Round (Qualified regionals) and more...
-
-🌱 I’m always learning, with a particular focus on the evolving Spring Ecosystem and Machine Learning.
-
-💬 Ask me about anything related to coding, tech, or software development. I'm always eager to chat!
-
-📫 You can reach me at: f20210010@dubai.bits-pilani.ac.in or rushitpalesha21@gmail.com
+I'm [Rushit Palesha](https://www.linkedin.com/in/rushit-palesha/) , and I'm a passionate backend developer and an aspiring AI Engineer.
+Ask me about anything related to coding, tech, or software development. I'm always eager to chat!
+You can reach me at: f20210010@dubai.bits-pilani.ac.in or rushitpalesha21@gmail.com
 
 ### Skills and Technologies
 [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
