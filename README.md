@@ -55,7 +55,7 @@ If you’re human: I like **systems that misbehave in interesting ways**, **agen
 | Bucket | Contents |
 | :--- | :--- |
 | **9–5-shaped** | Security engineering: **SOC** work, **AI pentesting** angles, **DLP**, and whatever else keeps prod boring for attackers. |
-| **Public goods** | **Lobsterlock - in house security module to tighten Openclaw  **[DefenseClaw](https://github.com/cisco-ai-defense/defenseclaw)** — scan and govern **agent** surfaces: skills, **MCP**, tool calls (Go / Python, Apache-2.0). |
+| **Public goods** | **Lobsterlock** - in house security module to tighten Openclaw  **[DefenseClaw](https://github.com/cisco-ai-defense/defenseclaw)** — scan and govern **agent** surfaces: skills, **MCP**, tool calls (Go / Python, Apache-2.0). |
 | **Solo queue** | **[HackerOne](https://www.hackerone.com/)** — real bounties, real scopes, real consequences. |
 
 ---
