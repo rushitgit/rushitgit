@@ -24,7 +24,7 @@ If you’re human: I like **systems that misbehave in interesting ways**, **agen
 
 ## Scoreboard exports
 
-<details>
+<details open>
 <summary><code>[+] cat ./ctf/ledger.tsv</code> — merged results</summary>
 
 | When | What | Signal |
@@ -34,11 +34,9 @@ If you’re human: I like **systems that misbehave in interesting ways**, **agen
 | 2026-02 | [Snyk](https://snyk.io/ctf/) Fetch the Flag | **56 / 1539** · **2100** pts · **6 / 22** chals |
 | — | Internal **AI / agent** build-off | **2nd** · **$5k** · NL → agents + tools · OpenAI Agents SDK |
 
-Optional context: [one public write-up thread](https://lnkd.in/d7QpiDep) for the Kaspersky run.
-
 </details>
 
-<details>
+<details open>
 <summary><code>[+] ls ./ctf/archive/</code> — older loot</summary>
 
 - NASA Space Apps **2023** — UAE winner · global nominee  
@@ -57,7 +55,7 @@ Optional context: [one public write-up thread](https://lnkd.in/d7QpiDep) for the
 | Bucket | Contents |
 | :--- | :--- |
 | **9–5-shaped** | Security engineering: **SOC** work, **AI pentesting** angles, **DLP**, and whatever else keeps prod boring for attackers. |
-| **Public goods** | **[DefenseClaw](https://github.com/cisco-ai-defense/defenseclaw)** — scan and govern **agent** surfaces: skills, **MCP**, tool calls (Go / Python, Apache-2.0). |
+| **Public goods** | **Lobsterlock - in house security module to tighten Openclaw  **[DefenseClaw](https://github.com/cisco-ai-defense/defenseclaw)** — scan and govern **agent** surfaces: skills, **MCP**, tool calls (Go / Python, Apache-2.0). |
 | **Solo queue** | **[HackerOne](https://www.hackerone.com/)** — real bounties, real scopes, real consequences. |
 
 ---
