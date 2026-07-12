@@ -16,32 +16,32 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="520px" fill="#f6f8fa" rx="15"/>
-<text x="20" y="28" fill="#24292f" class="ascii" font-size="14px">
-<tspan x="20" y="28">             .ih9&amp;@@@&amp;9Mr.             </tspan>
-<tspan x="20" y="48">            ;H&amp;@@@@@&amp;#SSG3r.           </tspan>
-<tspan x="20" y="68">          :rsA9@@@BSH3333A5hr          </tspan>
-<tspan x="20" y="88">         XHHGG&amp;@@@@@@@@@9GS#SA.        </tspan>
-<tspan x="20" y="108">        2B9#9&amp;&amp;@@@@@@@@@@&amp;#S#SA        </tspan>
-<tspan x="20" y="128">       ,25XsXB@&amp;BB9B&amp;@@@@Bh#99Gi       </tspan>
-<tspan x="20" y="148">      .h#SHSHB@BGhh5hGS#&amp;&amp;SB9Gh2.      </tspan>
-<tspan x="20" y="168">      :#&amp;@@@&amp;&amp;&amp;GGHh2MHHHB&amp;BBB#M3;      </tspan>
-<tspan x="20" y="188">      ;B@@@@@H#hh3h5h555S5S99#Mhr      </tspan>
-<tspan x="20" y="208">     ,H@@@@@@5M323323553H5###H3HM:     </tspan>
-<tspan x="20" y="228">    .M@@@@@@@#Hh3H353h3MGGB&amp;9GH#Bh.    </tspan>
-<tspan x="20" y="248">    .S@@@@@@@@@Shh3353hG#&amp;@@@&amp;&amp;@@#,    </tspan>
-<tspan x="20" y="268">     X&amp;@@@@@@@@9HGM3MHGH&amp;@@@@@@@&amp;5     </tspan>
-<tspan x="20" y="288">      rG@@@@@@&amp;93MMhMM539&amp;@@@@@#s      </tspan>
-<tspan x="20" y="308">      .iS@@@@B9#32555523S9@@@@9s.      </tspan>
-<tspan x="20" y="328">    :AS&amp;@&amp;@@@BBG522A22259BB@&amp;@@&amp;#5;    </tspan>
-<tspan x="20" y="348"> ,XG&amp;@@&amp;9&amp;&amp;&amp;&amp;&amp;&amp;Bh2AXXA2#&amp;&amp;&amp;@&amp;&amp;B&amp;@@&amp;GA: </tspan>
-<tspan x="20" y="368">3B@@@@BB9&amp;&amp;&amp;BB&amp;&amp;BSAiA39&amp;BB&amp;&amp;&amp;999&amp;@@@@&amp;G</tspan>
-<tspan x="20" y="388">9@@@B&amp;&amp;#B&amp;&amp;&amp;SS&amp;&amp;&amp;99H9&amp;&amp;&amp;9S&amp;&amp;&amp;999&amp;&amp;&amp;&amp;#&amp;@</tspan>
-<tspan x="20" y="408">@@B9B&amp;&amp;&amp;&amp;&amp;&amp;SSG#B&amp;&amp;&amp;&amp;&amp;&amp;&amp;#SS#&amp;&amp;&amp;B&amp;&amp;&amp;&amp;B&amp;@@</tspan>
-<tspan x="20" y="428">&amp;#BB9#&amp;B&amp;&amp;#9GG9#B99#&amp;&amp;##S#SB&amp;&amp;&amp;&amp;BSG#B9@</tspan>
-<tspan x="20" y="448">#SB@B9&amp;B&amp;@B#99#B&amp;BB9&amp;S#GGH9S&amp;B9&amp;9H9&amp;#SB</tspan>
-<tspan x="20" y="468">&amp;9&amp;@&amp;&amp;B@@@&amp;###9&amp;&amp;&amp;B&amp;&amp;&amp;BHGHBB&amp;&amp;&amp;&amp;9#B&amp;9S9</tspan>
-<tspan x="20" y="488">9B&amp;B&amp;@@B&amp;@&amp;&amp;S9&amp;&amp;&amp;B#B&amp;&amp;&amp;#GB&amp;&amp;&amp;B&amp;&amp;&amp;&amp;@@&amp;&amp;B</tspan>
-<tspan x="20" y="508">9@&amp;&amp;B@@&amp;B&amp;&amp;&amp;B9&amp;&amp;&amp;9H9&amp;&amp;&amp;99&amp;&amp;&amp;&amp;#&amp;@@&amp;&amp;&amp;&amp;&amp;9</tspan>
+<text x="22" y="28" fill="#24292f" class="ascii" font-size="13.5px">
+<tspan x="22" y="28">                                       </tspan>
+<tspan x="22" y="47">   .---------------------------.       </tspan>
+<tspan x="22" y="66">   | [_] [_] [_]        [o][o] |       </tspan>
+<tspan x="22" y="85">   |  .---------------------.  |       </tspan>
+<tspan x="22" y="104" fill="#1a7f37">   |  | &gt;_$ nmap -sV target |  |       </tspan>
+<tspan x="22" y="123" fill="#1a7f37">   |  | [*] 443/tcp open    |  |       </tspan>
+<tspan x="22" y="142" fill="#1a7f37">   |  | root@lab:~# _       |  |       </tspan>
+<tspan x="22" y="161">   |  &#x27;---------------------&#x27;  |       </tspan>
+<tspan x="22" y="180">   |___________________________|       </tspan>
+<tspan x="22" y="199">              ||                       </tspan>
+<tspan x="22" y="218">              ||        ___            </tspan>
+<tspan x="22" y="237">              ||       /   \           </tspan>
+<tspan x="22" y="256">              ||      | o o |          </tspan>
+<tspan x="22" y="275">              ||       \_^_/           </tspan>
+<tspan x="22" y="294">              ||      ./ | \.          </tspan>
+<tspan x="22" y="313">   .----------+------&#x27;  / \  &#x27;-----.   </tspan>
+<tspan x="22" y="332">   |   .-----------------------.   |   </tspan>
+<tspan x="22" y="351">   |   |     [=============]   |   |   </tspan>
+<tspan x="22" y="370">   |   &#x27;-----------------------&#x27;   |   </tspan>
+<tspan x="22" y="389">   |_______________________________|   </tspan>
+<tspan x="22" y="408">  /_________________________________\  </tspan>
+<tspan x="22" y="427"> |  coffee     notes      keys       | </tspan>
+<tspan x="22" y="446"> |___________________________________| </tspan>
+<tspan x="22" y="465">                                       </tspan>
+<tspan x="22" y="484">                                       </tspan>
 </text>
 <text x="380" y="28" fill="#24292f" font-size="15px">
 <tspan x="380" y="28">rushit@palesha</tspan> ————————————————————————————————————————-
