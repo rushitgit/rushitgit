@@ -46,9 +46,9 @@ text, tspan {white-space: pre;}
 <text x="380" y="28" fill="#24292f" font-size="15px">
 <tspan x="380" y="28">rushit@palesha</tspan> ————————————————————————————————————————-
 <tspan x="380" y="48" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">macOS, Linux</tspan>
-<tspan x="380" y="68" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................. </tspan><tspan class="value" id="age_data">23 years, 6 months, 11 days</tspan>
+<tspan x="380" y="68" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Dubai</tspan>
 <tspan x="380" y="88" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Deriv</tspan>
-<tspan x="380" y="108" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Security AI Engineer</tspan>
+<tspan x="380" y="108" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Senior AI Engineer</tspan>
 <tspan x="380" y="128" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Cursor, VSCode, IntelliJ</tspan>
 <tspan x="380" y="148" class="cc">. </tspan>
 <tspan x="380" y="168" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Java, Python, C/C++, Go</tspan>
@@ -59,12 +59,12 @@ text, tspan {white-space: pre;}
 <tspan x="380" y="268" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Other</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Chess (FIDE), Open Source</tspan>
 <tspan x="380" y="308">- Contact</tspan> ——————————————————————————————————————————
 <tspan x="380" y="328" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">palesharushit@gmail.com</tspan>
-<tspan x="380" y="348" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">University</tspan>:<tspan class="cc"> . </tspan><tspan class="value">f20210010@dubai.bits-pilani.ac.in</tspan>
+<tspan x="380" y="348" class="cc">. </tspan><tspan class="key">Research</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">4 published CVEs</tspan>
 <tspan x="380" y="368" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">rushit-palesha</tspan>
 <tspan x="380" y="388" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">rushitgit</tspan>
-<tspan x="380" y="428">- GitHub Stats</tspan> ————————————————————————————————————————
-<tspan x="380" y="448" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">52</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">57</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">0</tspan>
-<tspan x="380" y="468" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................... </tspan><tspan class="value" id="commit_data">43</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ........ </tspan><tspan class="value" id="follower_data">13</tspan>
-<tspan x="380" y="488" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Agent security · CTFs · Bug bounty</tspan>
+<tspan x="380" y="428">- Selected work</tspan> ————————————————————————————————————————
+<tspan x="380" y="448" class="cc">. </tspan><tspan class="key">Upstream</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">VulnHunter, DefenseClaw</tspan>
+<tspan x="380" y="468" class="cc">. </tspan><tspan class="key">Builds</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Next-Gen SOC, LobsterLock</tspan>
+<tspan x="380" y="488" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">AI systems · Agents · Security</tspan>
 </text>
 </svg>

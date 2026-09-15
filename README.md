@@ -9,26 +9,34 @@
 # Rushit Palesha
 
 ```text
-> NAME        security-tilted builder · chess on the clock · flag chaser
+> NAME        AI engineer · systems builder · security researcher
 > LOC         Dubai
 > ROLE        Senior AI Engineer · Security @ Deriv
 > DEGREE      CS — BITS Pilani, Dubai Campus (’21–’25)
 > SIDE QUESTS CVEs · HackerOne · agent / MCP hardening · CTFs
 ```
 
-If you’re human: I like **systems that misbehave in interesting ways**, **agent boundaries**, and **competitions where the clock is honest**.
+I build **agentic AI, LLM infrastructure, and backend systems**, with a focus on evaluation, reliability, and security. Outside work: coordinated vulnerability disclosure, open-source contributions, CTFs, and chess.
 
 Longer form (selected work, research writeups, receipts): **[rushit-portfolio-theta.vercel.app](https://rushit-portfolio-theta.vercel.app/)**
 
 ---
 
+## Recent highlights
+
+- **4 published CVEs** across F5 NGINX Gateway Fabric, Electron, mcp-atlassian, and OpenImageIO. [Advisories and attribution below](#published-cves).
+- **Latest disclosure — September 2026:** F5 NGINX Gateway Fabric configuration-injection research, co-credited with Sujal Tuladhar. [CVE-2026-66362](https://www.cve.org/CVERecord?id=CVE-2026-66362).
+- **MCP ecosystem research — July 2026:** credited reporter for an attachment-upload file-access flaw in mcp-atlassian. [Maintainer advisory](https://github.com/sooperset/mcp-atlassian/security/advisories/GHSA-6cr4-ccf3-x7h4).
+- **Accepted upstream work:** repository identity fixes in Capital One’s VulnHunter and structured network-egress telemetry in Cisco AI Defense’s DefenseClaw. [Contribution links](#upstream-merges).
+
 ## Where to click
 
 | Go | You’ll find |
 | :--- | :--- |
-| [Published CVEs](#published-cves) | Electron · OpenImageIO — coordinated disclosure |
+| [Published CVEs](#published-cves) | F5 NGF · Electron · mcp-atlassian · OpenImageIO |
 | [Scoreboard exports](#scoreboard-exports) | CTF numbers, vendor finals, no slideshow |
 | [What I actually do](#what-i-actually-do) | Work, OSS, bounty — one breath each |
+| [Selected builds](#selected-builds) | ML systems · agent runtime controls · transformer internals |
 | [Upstream merges](#upstream-merges) | VulnHunter · DefenseClaw |
 | [Stack + shields](#stack-and-badges) | Boring but honest |
 | [Say hi](#say-hi) | Mail · LinkedIn · portfolio |
@@ -37,10 +45,14 @@ Longer form (selected work, research writeups, receipts): **[rushit-portfolio-th
 
 ## Published CVEs
 
+Coordinated disclosures with public reporter credit. F5 credits the NGF finding jointly to Rushit Palesha and Sujal Tuladhar.
+
 | ID | Target | Signal |
 | :--- | :--- | :--- |
-| [**CVE-2026-70606**](https://www.cve.org/CVERecord?id=CVE-2026-70606) | [Electron](https://github.com/electron/electron/security/advisories/GHSA-r4w5-6pfg-jxp5) | Session-isolation / cache reuse via `ProtocolResponse.url` · Medium · CVSS 5.9 · CWE-668 |
-| [**CVE-2026-59956**](https://github.com/AcademySoftwareFoundation/OpenImageIO/security/advisories/GHSA-hjfv-gvxc-qgvh) | OpenImageIO | Heap-buffer-overread in IFF decoder when Z-buffer is set · CWE-125 |
+| [**CVE-2026-66362**](https://www.cve.org/CVERecord?id=CVE-2026-66362) | [F5 NGINX Gateway Fabric](https://my.f5.com/manage/s/article/K000162600) | Control-plane configuration injection with the NGINX Plus data plane · High · CVSS 4.0: 8.6 · co-credited finder |
+| [**CVE-2026-77259**](https://www.cve.org/CVERecord?id=CVE-2026-77259) | [mcp-atlassian](https://github.com/sooperset/mcp-atlassian/security/advisories/GHSA-6cr4-ccf3-x7h4) | Missing file-access boundary in attachment uploads · High · CVSS 3.1: 7.7 · credited reporter |
+| [**CVE-2026-70606**](https://www.cve.org/CVERecord?id=CVE-2026-70606) | [Electron](https://github.com/electron/electron/security/advisories/GHSA-r4w5-6pfg-jxp5) | Session-isolation / cache reuse · Medium · CVSS 3.1: 5.9 · credited reporter |
+| [**CVE-2026-59956**](https://github.com/AcademySoftwareFoundation/OpenImageIO/security/advisories/GHSA-hjfv-gvxc-qgvh) | OpenImageIO | Heap-buffer-overread in the IFF decoder · Medium · credited reporter |
 
 ---
 
@@ -80,9 +92,19 @@ Longer form (selected work, research writeups, receipts): **[rushit-portfolio-th
 | Bucket | Contents |
 | :--- | :--- |
 | **9–5-shaped** | Senior AI Engineer in Security @ Deriv — agent-security controls, supply-chain defenses, SOC / AI-assisted testing, DLP, anomaly detection. |
-| **Vuln research** | Coordinated disclosure into upstream (Electron, OpenImageIO). Niche over noise. |
-| **Public goods** | **LobsterLock** — host-level policy layer for autonomous agents (OpenClaw runtime boundary: cmd / net / fs). **[DefenseClaw](https://github.com/cisco-ai-defense/defenseclaw)** — scan and govern agent surfaces: skills, MCP, tool calls. |
+| **Vuln research** | Coordinated disclosure across F5 NGINX Gateway Fabric, Electron, mcp-atlassian, and OpenImageIO. |
+| **Open source** | Contributions to **[VulnHunter](https://github.com/capitalone/VulnHunter/pull/21)** and **[DefenseClaw](https://github.com/cisco-ai-defense/defenseclaw/pull/58)**; public builds exploring model internals and developer tooling. |
 | **Solo queue** | **[HackerOne](https://www.hackerone.com/)** — real bounties, real scopes, real consequences. |
+
+---
+
+## Selected builds
+
+| Project | Work |
+| :--- | :--- |
+| [Next-Gen SOC](https://rushit-portfolio-theta.vercel.app/#work) | Company case study: ML-assisted security monitoring, behavioral features, anomaly detection, and analyst-in-the-loop evaluation. |
+| [LobsterLock](https://rushit-portfolio-theta.vercel.app/#work) | Company case study; source private. A host-level policy layer for autonomous agents covering command, network, and filesystem operations. |
+| [Transformer Visualizer](https://github.com/rushitgit/TransformerArchitecture) | Interactive exploration of transformer components, attention, and token representations using a lightweight BERT model. |
 
 ---
 
@@ -91,7 +113,7 @@ Longer form (selected work, research writeups, receipts): **[rushit-portfolio-th
 | Repo | What landed |
 | :--- | :--- |
 | [Capital One / VulnHunter#21](https://github.com/capitalone/VulnHunter/pull/21) | Fixed repository-basename collisions in batch scans — preserve owner/repo identity across checkout, logs, results, resume state. |
-| [Cisco AI Defense / DefenseClaw](https://github.com/cisco-ai-defense/defenseclaw) | Structured network-egress telemetry: query filters, blocked-call counts, OTel counters, optional Splunk forwarding ([#58](https://github.com/cisco-ai-defense/defenseclaw/pull/58), [#86](https://github.com/cisco-ai-defense/defenseclaw/pull/86)). |
+| [Cisco AI Defense / DefenseClaw](https://github.com/cisco-ai-defense/defenseclaw) | Structured network-egress telemetry: query filters, blocked-call counts, OTel counters, optional Splunk forwarding. Contributed in [#58](https://github.com/cisco-ai-defense/defenseclaw/pull/58), incorporated through the maintainer’s merged [#86](https://github.com/cisco-ai-defense/defenseclaw/pull/86). |
 
 ---
 
@@ -145,7 +167,7 @@ Longer form (selected work, research writeups, receipts): **[rushit-portfolio-th
 
 ## Say hi
 
-**palesharushit@gmail.com** · **f20210010@dubai.bits-pilani.ac.in** · [LinkedIn](https://www.linkedin.com/in/rushit-palesha/) · [Portfolio](https://rushit-portfolio-theta.vercel.app/)
+**palesharushit@gmail.com** · [LinkedIn](https://www.linkedin.com/in/rushit-palesha/) · [Portfolio](https://rushit-portfolio-theta.vercel.app/)
 
 Good DMs: odd agentic trust bugs, **CVE** / disclosure edge cases, **CTF** war stories, **bounty** weirdness, **chess** panic moments.
 
